@@ -1,0 +1,25 @@
+{
+    "user": [
+        {
+            "id":1,
+            "name":"Sunil Paudel",
+            "address":"Nadipur",
+            "email":"sunil@gmail.com",
+            "contact":"83848"
+        },
+        {
+            "id":2,
+            "name":"Madan kc",
+            "address":"Bagar",
+            "email":"madan@gmail.com",
+            "contact":"75689"
+        },
+        {
+            "id":3,
+            "name":"Hari Giri",
+            "address":"Birauta",
+            "email":"hari@gmail.com",
+            "contact":"64776"
+        }
+    ]
+}
